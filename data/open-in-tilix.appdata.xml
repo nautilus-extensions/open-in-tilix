@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+    <id>open-in-tilix</id>
+    <extends>org.gnome.Nautilus.desktop</extends>
+    <metadata_license>GPL-3.0+</metadata_license>
+    <project_license>GPL-3.0+</project_license>
+    <name>Open In Tilix</name>
+    <summary>Open path in tilix from Nautilus</summary>
+    <description>
+        <p>
+            Open In Tilix is a simple Python extension for the Nautilus file
+            manager that adds the ability to open tilix from the context menu.
+        </p>
+    </description>
+    <url type="homepage">http://github.com/nautilus-extensions/open-in-tilix/</url>
+    <url type="bugtracker">http://github.com/nautilus-extensions/open-in-tilix/issues</url>
+    <developer_name>Nautilus Extensions</developer_name>
+</component>

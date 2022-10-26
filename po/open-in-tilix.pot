@@ -1,0 +1,50 @@
+# Open In Tilix POT file
+# Copyright (C) 2022 Nautilus Extensions
+# This file is distributed under the GNU GPLv3 license.
+# Nautilus Extensions, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-26 15:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: extension/open-in-tilix.py:85
+msgid "Open Remote Tilix"
+msgstr ""
+
+#: extension/open-in-tilix.py:86
+msgid "Open Remote Tilix In {}"
+msgstr ""
+
+#: extension/open-in-tilix.py:92
+msgid "Open In Tilix"
+msgstr ""
+
+#: extension/open-in-tilix.py:93
+msgid "Open Tilix In {}"
+msgstr ""
+
+#: extension/open-in-tilix.py:126
+msgid "Open Remote Tilix Here"
+msgstr ""
+
+#: extension/open-in-tilix.py:127
+msgid "Open Remote Tilix In This Directory"
+msgstr ""
+
+#: extension/open-in-tilix.py:132
+msgid "Open Tilix Here"
+msgstr ""
+
+#: extension/open-in-tilix.py:133
+msgid "Open Tilix In This Directory"
+msgstr ""
