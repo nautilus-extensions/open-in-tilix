@@ -32,7 +32,7 @@
 </p>
 
 
-Nautilus Admin is a simple Python extension for the Nautilus file manager that
+Open In Tilix is a simple Python extension for the Nautilus file manager that
 add the ability to open tilix from the context menu.
 
 This is inspired by the extension in the tilix repo but since tilix is unmaintained, the extension still using the old Nautilus API and it's not compatible with the latest version of Nautilus, I decided to create a new extension.
@@ -145,11 +145,11 @@ or think you can improve a translation, you can use the [Weblate](https://hosted
 
 Special thanks to:
 
-- Original author of Nautilus Admin, [Bruno Nova](https://github.com/brunonova) for creating this project. This repo is a fork of the original project.
+- Tilix team for the original extension
 - [Weblate](https://weblate.org) for providing translation platform
 
 
 ## 📜 License
 
-Nautilus Admin is licensed under the [GNU General Public License v3.0](LICENSE)
+Open In Tilix is licensed under the [GNU General Public License v3.0](LICENSE)
 
